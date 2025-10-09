@@ -8,6 +8,7 @@ export default defineConfig({
         main: resolve(__dirname, 'index.html'),
         'drum-kit': resolve(__dirname, 'projects/drum-kit/index.html'),
         'vanilla-clock': resolve(__dirname, 'projects/vanilla-clock/index.html'),
+        'css-variables': resolve(__dirname, 'projects/css-variables/index.html'),
       }
     }
   }
