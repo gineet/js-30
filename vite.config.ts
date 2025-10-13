@@ -13,6 +13,7 @@ export default defineConfig({
         'ajax-typeahead': resolve(__dirname, 'projects/ajax-typeahead/index.html'),
         'canvas-fun': resolve(__dirname, 'projects/canvas-fun/index.html'),
         'shift-select-checkboxes': resolve(__dirname, 'projects/shift-select-checkboxes/index.html'),
+        'video-player': resolve(__dirname, 'projects/video-player/index.html'),
       }
     }
   }
