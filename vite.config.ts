@@ -9,6 +9,7 @@ export default defineConfig({
         'drum-kit': resolve(__dirname, 'projects/drum-kit/index.html'),
         'vanilla-clock': resolve(__dirname, 'projects/vanilla-clock/index.html'),
         'css-variables': resolve(__dirname, 'projects/css-variables/index.html'),
+        'flex-panels-gallery': resolve(__dirname, 'projects/flex-panels-gallery/index.html'),
       }
     }
   }
