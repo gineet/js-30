@@ -11,6 +11,7 @@ export default defineConfig({
         'css-variables': resolve(__dirname, 'projects/css-variables/index.html'),
         'flex-panels-gallery': resolve(__dirname, 'projects/flex-panels-gallery/index.html'),
         'ajax-typeahead': resolve(__dirname, 'projects/ajax-typeahead/index.html'),
+        'canvas-fun': resolve(__dirname, 'projects/canvas-fun/index.html'),
       }
     }
   }
