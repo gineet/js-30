@@ -15,6 +15,7 @@ export default defineConfig({
         'shift-select-checkboxes': resolve(__dirname, 'projects/shift-select-checkboxes/index.html'),
         'video-player': resolve(__dirname, 'projects/video-player/index.html'),
         'key-sequence-detection': resolve(__dirname, 'projects/key-sequence-detection/index.html'),
+        'slide-in-on-scroll': resolve(__dirname, 'projects/slide-in-on-scroll/index.html'),
       }
     }
   }
