@@ -17,6 +17,7 @@ export default defineConfig({
         'key-sequence-detection': resolve(__dirname, 'projects/key-sequence-detection/index.html'),
         'slide-in-on-scroll': resolve(__dirname, 'projects/slide-in-on-scroll/index.html'),
         'local-storage-and-event-delegation': resolve(__dirname, 'projects/local-storage-and-event-delegation/index.html'),
+        'mouse-move-shadow': resolve(__dirname, 'projects/mouse-move-shadow/index.html'),
       }
     }
   }
