@@ -21,6 +21,7 @@ export default defineConfig({
         'webcam-fun': resolve(__dirname, 'projects/webcam-fun/index.html'),
         'follow-along-highlighter': resolve(__dirname, 'projects/follow-along-highlighter/index.html'),
         'speech-synthesis': resolve(__dirname, 'projects/speech-synthesis/index.html'),
+        'sticky-nav': resolve(__dirname, 'projects/sticky-nav/index.html'),
       }
     }
   }
