@@ -22,6 +22,7 @@ export default defineConfig({
         'follow-along-highlighter': resolve(__dirname, 'projects/follow-along-highlighter/index.html'),
         'speech-synthesis': resolve(__dirname, 'projects/speech-synthesis/index.html'),
         'sticky-nav': resolve(__dirname, 'projects/sticky-nav/index.html'),
+        'follow-along-nav': resolve(__dirname, 'projects/follow-along-nav/index.html'),
       }
     }
   }
