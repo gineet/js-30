@@ -19,6 +19,7 @@ export default defineConfig({
         'local-storage-and-event-delegation': resolve(__dirname, 'projects/local-storage-and-event-delegation/index.html'),
         'mouse-move-shadow': resolve(__dirname, 'projects/mouse-move-shadow/index.html'),
         'webcam-fun': resolve(__dirname, 'projects/webcam-fun/index.html'),
+        'follow-along-highlighter': resolve(__dirname, 'projects/follow-along-highlighter/index.html'),
       }
     }
   }
